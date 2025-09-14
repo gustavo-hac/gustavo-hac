@@ -11,7 +11,7 @@
 </picture>
 
 ###
-<p align="left">Redes Sociais</p>
+<p align="left">Redes Sociais:</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavo-h-a-costa/" target="_blank">
