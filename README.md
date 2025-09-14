@@ -1,6 +1,6 @@
 ## Hello!!
-
-<p align="left">Hi </p>
+My name is Gustavo.
+I am a beginner programmer currently studying Computer Science at the Federal University of Technology – Paraná (UTFPR).
 
 ###
 
@@ -24,8 +24,6 @@
 ###
 
 <p align="left">Programação:</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
