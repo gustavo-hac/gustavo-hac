@@ -1,6 +1,5 @@
-## Hello!!
-My name is Gustavo.
-I am a beginner programmer currently studying Computer Science at the Federal University of Technology – Paraná (UTFPR).
+## Hello!! My name is Gustavo.
+Programmer currently studying Computer Science at the UTFPR (Federal University of Technology of Paraná).
 
 ###
 
@@ -11,19 +10,12 @@ I am a beginner programmer currently studying Computer Science at the Federal Un
 </picture>
 
 ###
-<p align="left">Redes Sociais:</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-h-a-costa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gustavo_h.a.c" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-###
 
-<p align="left">Programação:</p>
+<p align="left">Programming languages:</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -36,9 +28,15 @@ I am a beginner programmer currently studying Computer Science at the Federal Un
 </div>
 
 ###
+<p align="left">Social Media:</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-h-a-costa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/gustavo_h.a.c" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
