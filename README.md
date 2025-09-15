@@ -1,5 +1,9 @@
 ## Hello!! My name is Gustavo.
-Programmer currently studying Computer Science at the UTFPR (Federal University of Technology of Paraná).
+🎓 Currently pursuing my Bachelor's degree in Computer Science at the UTFPR (Federal University of Technology of Paraná).
+
+💻 Currently building my skills in programming and looking for my first professional opportunity.
+
+📖 Starting my studies in Cloud Computing.
 
 ###
 
@@ -9,15 +13,15 @@ Programmer currently studying Computer Science at the UTFPR (Federal University 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavo-hac/gustavo-hac/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 <p align="left">Programming languages:</p>
 
-<div align="left">
+
+<div align="left";>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
@@ -25,7 +29,10 @@ Programmer currently studying Computer Science at the UTFPR (Federal University 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  
 </div>
+
+
 
 ###
 <p align="left">Social Media:</p>
