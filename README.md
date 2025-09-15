@@ -5,8 +5,9 @@
 
 ☁️ Beginning my journey in Cloud Computing with Google Cloud.
 
-###
+<!-- 👉 [Currículo](https://gustavo-hac.github.io/) -->
 
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-hac/gustavo-hac/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo-hac/gustavo-hac/output/pacman-contribution-graph.svg">
@@ -16,6 +17,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+
 
 ###
 <p align="left">Programming languages:</p>
@@ -31,8 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
   
 </div>
-
-
 
 ###
 <p align="left">Social Media:</p>
