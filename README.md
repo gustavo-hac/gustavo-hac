@@ -5,7 +5,7 @@
 
 ☁️ Beginning my journey in Cloud Computing with Google Cloud.
 
-<!-- 👉 [Currículo](https://gustavo-hac.github.io/) -->
+👉 If you wanna, you can play the [Pacman](https://gustavo-hac.github.io/) that I created.
 
 ###
 <picture>
