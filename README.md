@@ -1,9 +1,9 @@
 ## Hello!! My name is Gustavo.
-🎓 Currently pursuing my Bachelor's degree in Computer Science at the UTFPR (Federal University of Technology of Paraná).
+🎓 Currently pursuing a Bachelor's degree in Computer Science at UTFPR (Federal University of Technology – Paraná).
 
-💻 Currently building my skills in programming and looking for my first professional opportunity.
+💻 Building my programming skills and seeking my first professional opportunity.
 
-📖 Starting my studies in Cloud Computing with Google Cloud.
+☁️ Beginning my journey in Cloud Computing with Google Cloud.
 
 ###
 
