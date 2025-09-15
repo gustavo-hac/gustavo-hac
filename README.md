@@ -5,7 +5,7 @@
 
 ☁️ Beginning my journey in Cloud Computing with Google Cloud.
 
-👉 One of the projects tha i made is a Pacman in JS & HTML if you wannt you can play it. [Pacman](https://gustavo-hac.github.io/). 
+👉 One of the projects that i made is a mini Pacman in JS & HTML. [Play](https://gustavo-hac.github.io/). 
 
 ###
 <picture>
