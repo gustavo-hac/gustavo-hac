@@ -3,7 +3,7 @@
 
 💻 Currently building my skills in programming and looking for my first professional opportunity.
 
-📖 Starting my studies in Cloud Computing.
+📖 Starting my studies in Cloud Computing with Google Cloud.
 
 ###
 
