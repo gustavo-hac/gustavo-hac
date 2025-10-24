@@ -7,7 +7,7 @@
 
 👉 One of the projects that i made is a mini Pacman in JS & HTML. [Play](https://gustavo-hac.github.io/). 
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-hac/gustavo-hac/output/pacman-contribution-graph-dark.svg">
@@ -15,15 +15,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavo-hac/gustavo-hac/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavo-hac&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-<p align="left">Programming languages:</p>
+-----
 
+### <p align="left">Programming languages:</p>
 
 <div align="left";>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -37,8 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-<p align="left">Social Media:</p>
+### <p align="left">Social Media:</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-h-a-costa/" target="_blank">
@@ -48,5 +45,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
