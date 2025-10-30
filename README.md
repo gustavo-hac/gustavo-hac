@@ -3,9 +3,9 @@
 
 💻 Building my programming skills and seeking my first professional opportunity.
 
-☁️ Beginning my journey in Cloud Computing with Google Cloud.
-
-👉 One of the projects that i made is a mini Pacman in JS & HTML. [Play](https://gustavo-hac.github.io/). 
+📖 Currently enhancing my front-end web development expertise with DIO.
+<!--- ☁️ Beginning my journey in Cloud Computing with Google Cloud. -->
+🎮 One of the projects that i made is a mini Pacman in JS & HTML. [Play](https://gustavo-hac.github.io/). 
 
 ---
 
