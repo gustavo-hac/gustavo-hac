@@ -5,9 +5,9 @@
 
 📖 Currently enhancing my front-end web development expertise with DIO.
 <!--- ☁️ Beginning my journey in Cloud Computing with Google Cloud. -->
-🎮 One of the projects that i made is a mini Pacman in JS & HTML, you can [Play It!](https://gustavo-hac.github.io/Pacman_JS/) and also see the [code](https://github.com/gustavo-hac/Pacman_JS).
+🎮 One of the projects that i made is a Pacman in JS, HTML & CSS, [Play Pacman](https://gustavo-hac.github.io/Pacman_JS/). The code is in this [Pacman Repository](https://github.com/gustavo-hac/Pacman_JS).
 
-🚀 Recent project: [Landing page](https://github.com/gustavo-hac/DIO-trilha-css-desafio-01).
+🚀 Landing page: Recent project made to solidy my web knowledge, [See page](https://gustavo-hac.github.io/DIO-trilha-css-desafio-01/). The code is in this [Landing Page Repository](https://github.com/gustavo-hac/DIO-trilha-css-desafio-01).
 
 ---
 
