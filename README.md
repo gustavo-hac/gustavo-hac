@@ -7,7 +7,7 @@
 <!--- ☁️ Beginning my journey in Cloud Computing with Google Cloud. -->
 🎮 One of the projects that i made is a Pacman in JS, HTML & CSS, [Play Pacman](https://gustavo-hac.github.io/Pacman_JS/). The code is in this [Pacman Repository](https://github.com/gustavo-hac/Pacman_JS).
 
-🚀 Landing page: Recent project made to solidy my web knowledge, [See page](https://gustavo-hac.github.io/DIO-trilha-css-desafio-02/). The code is in this [Landing Page Repository](https://github.com/gustavo-hac/DIO-trilha-css-desafio-02).
+🚀 Landing page: Recent project made to solidy my web knowledge, [See page](https://gustavo-hac.github.io/DIO-trilha-css-desafio-02/). The code is in this [Repository](https://github.com/gustavo-hac/DIO-trilha-css-desafio-02).
 
 ---
 
